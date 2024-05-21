@@ -5,7 +5,7 @@
 	<meta charset="UTF-8" />
 	<meta name="_token" content="N8bSUAQ1IjUid9QN8QVI4mRxpCBSz6oyXSwNd9RQ">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<title> Login | Hotel Intan Reservation</title>
+	<title> Login | PT.Kathering</title>
 	<link rel="stylesheet" type="text/css" href="{{ url('css/login.css') }}" />
 	<script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
 
