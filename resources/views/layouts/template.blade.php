@@ -3,7 +3,7 @@
 
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<title> Reservation | Hotel Intan </title>
+	<title> Reservation | PT.Kathering </title>
 
 	<meta name="csrf-token" content="{{ csrf_token() }}">
 	<meta name="_token" content="{{ csrf_token() }}">
@@ -97,7 +97,7 @@
 			<!-- Logo Header -->
 			<div class="logo-header" data-background-color="red">
 				<div class="avatar-sm lo">
-					<img src="{{ url('Logo/hotel-intan-putih.png') }}" alt="navbar" class=" mt--4 mh">
+					
 				</div>
 
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse"
